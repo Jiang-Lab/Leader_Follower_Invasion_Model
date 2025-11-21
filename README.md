@@ -19,7 +19,7 @@ Visit the [CompuCell3D download page]([https://compucell3d.org/Downloads](https:
 Or install using `conda`:
 
 ```bash
-conda create -n cc3d-env -c compucell3d -c conda-forge compucell3d=4.3.1
+conda create -n cc3d-env -c compucell3d -c conda-forge compucell3d=4.6.0
 conda activate cc3d-env
 ```
 
